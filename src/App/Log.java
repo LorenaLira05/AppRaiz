@@ -1,11 +1,11 @@
 package App;
 
 public class Log {
-		    private Usuario usuario;
-		    private String tipoOperacao;
-		    private String descricao;
+	private Usuario usuario;
+	private String tipoOperacao;
+	private String descricao;
 		    
-		    public Log() {
+	public Log() {
 		    }
 		    
 		    public Log(Usuario usuario, String tipoOperacao, String descricao) {
